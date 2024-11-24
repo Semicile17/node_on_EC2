@@ -9,7 +9,7 @@ function App() {
     <div className="h-screen w-full">
       {/* Header Section */}
       <header className="bg-blue-600 text-white p-8 text-center">
-        <h1 className="text-4xl font-bold mb-2">Welcome to Our Website</h1>
+        <h1 className="text-4xl font-bold mb-2">Namaste Nigga</h1>
         <p className="text-lg mb-4">Your solution for everything, all in one place!</p>
         <button className="bg-yellow-500 hover:bg-yellow-600 text-black font-semibold py-2 px-6 rounded-lg transition duration-300">
           Learn More
