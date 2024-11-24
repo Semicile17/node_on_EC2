@@ -41,7 +41,7 @@ function App() {
 
       {/* Footer Section */}
       <footer className="bg-gray-800 text-white py-4 w-full text-center bottom-0 md:fixed">
-        <p className="text-sm">&copy; 2024 Supreme Inc. All rights reserved</p>
+        <p className="text-sm">&copy; 2024 Supreme Inc. All rights reserved.</p>
       </footer>
     </div>
   );
