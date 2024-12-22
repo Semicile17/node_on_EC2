@@ -29,8 +29,8 @@ function App() {
     <div className="h-screen w-full">
       {/* Header Section */}
       <header className="bg-yellow-300 text-black p-8 text-center">
-        <h1 className="text-4xl font-bold mb-2">Hey Bud !</h1>
-        <p className="text-lg mb-4 font-serif">Tap.Tap.Tap.Tap.Tap</p>
+        <h1 className="text-4xl font-bold mb-2">Puzzle one</h1>
+        <p className="text-lg mb-4 font-serif">Building ...</p>
       
       </header>
 
